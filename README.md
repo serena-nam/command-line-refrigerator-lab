@@ -1,6 +1,6 @@
 # Lab: Clean Up The Fridge!
 
-Your kitchen is a disaster. We're not blaming anyone, but when we opened up the fridge today, we almost passed out. Please, please clean up your mess.
+I love your filthy fridge but... life might be a little bit simpler if we cleaned things up!
 
 ## Instructions
 
